@@ -14,6 +14,7 @@ rodheight = 0
 MAKE_THE_Y_AXIS_THE_X_AXIS = 90
 
 CONVERSION_FOR_BACKSITE_TO_Y_AXIS = 28 
+#EXTRA_FOR_BAD_POINTS=
 
 canvas = ROOT.TCanvas("c", "Graph2Dexample", 0, 0, 700, 600)
  
